@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd2103b0-838d-4ba7-817c-a0f9cec1268c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/com.awspaas.user.apps.finance.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/com.awspaas.user.apps.finance.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/bo/_1b50ea12-5843-4555-9085-25f3b42a0621/1b50ea12-5843-4555-9085-25f3b42a0621.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/bo/_1b50ea12-5843-4555-9085-25f3b42a0621/1b50ea12-5843-4555-9085-25f3b42a0621.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/bo/_2e1f4180-deac-4a97-8ada-e1cc4f983bff/2e1f4180-deac-4a97-8ada-e1cc4f983bff.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/bo/_2e1f4180-deac-4a97-8ada-e1cc4f983bff/2e1f4180-deac-4a97-8ada-e1cc4f983bff.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/bo/_2f077692-43fb-4b03-a600-9f76ce2734f3/2f077692-43fb-4b03-a600-9f76ce2734f3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/bo/_2f077692-43fb-4b03-a600-9f76ce2734f3/2f077692-43fb-4b03-a600-9f76ce2734f3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/bo/_831e6279-4cf4-47e2-9cc2-bb8bfa5fee6b/831e6279-4cf4-47e2-9cc2-bb8bfa5fee6b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/bo/_831e6279-4cf4-47e2-9cc2-bb8bfa5fee6b/831e6279-4cf4-47e2-9cc2-bb8bfa5fee6b.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/bo/_bf0e68dd-a7cc-4ed6-a801-a164b66f335a/bf0e68dd-a7cc-4ed6-a801-a164b66f335a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/bo/_bf0e68dd-a7cc-4ed6-a801-a164b66f335a/bf0e68dd-a7cc-4ed6-a801-a164b66f335a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/form/_2aaa0b98-85a1-4966-bb40-eeb6fb9a3814/2aaa0b98-85a1-4966-bb40-eeb6fb9a3814.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/form/_2aaa0b98-85a1-4966-bb40-eeb6fb9a3814/2aaa0b98-85a1-4966-bb40-eeb6fb9a3814.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/form/_2aaa0b98-85a1-4966-bb40-eeb6fb9a3814/2aaa0b98-85a1-4966-bb40-eeb6fb9a3814_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/form/_2aaa0b98-85a1-4966-bb40-eeb6fb9a3814/2aaa0b98-85a1-4966-bb40-eeb6fb9a3814_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/form/_3bbc98b7-c5f4-4584-86f1-46b99cc50422/3bbc98b7-c5f4-4584-86f1-46b99cc50422.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/form/_3bbc98b7-c5f4-4584-86f1-46b99cc50422/3bbc98b7-c5f4-4584-86f1-46b99cc50422.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/form/_3bbc98b7-c5f4-4584-86f1-46b99cc50422/3bbc98b7-c5f4-4584-86f1-46b99cc50422_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/form/_3bbc98b7-c5f4-4584-86f1-46b99cc50422/3bbc98b7-c5f4-4584-86f1-46b99cc50422_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_391c2d25d1cc4e63a48cff1a9221fe57/obj_391c2d25d1cc4e63a48cff1a9221fe57.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_391c2d25d1cc4e63a48cff1a9221fe57/obj_391c2d25d1cc4e63a48cff1a9221fe57.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_391c2d25d1cc4e63a48cff1a9221fe57/obj_391c2d25d1cc4e63a48cff1a9221fe57.draw" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_391c2d25d1cc4e63a48cff1a9221fe57/obj_391c2d25d1cc4e63a48cff1a9221fe57.draw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_423f2314711a4fb8afdb1e1b32b72879/obj_423f2314711a4fb8afdb1e1b32b72879.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_423f2314711a4fb8afdb1e1b32b72879/obj_423f2314711a4fb8afdb1e1b32b72879.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_447c67fc7ff746ca8334fc493ee8ba5f/obj_447c67fc7ff746ca8334fc493ee8ba5f.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_447c67fc7ff746ca8334fc493ee8ba5f/obj_447c67fc7ff746ca8334fc493ee8ba5f.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_447c67fc7ff746ca8334fc493ee8ba5f/obj_447c67fc7ff746ca8334fc493ee8ba5f.draw" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_447c67fc7ff746ca8334fc493ee8ba5f/obj_447c67fc7ff746ca8334fc493ee8ba5f.draw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_447c67fc7ff746ca8334fc493ee8ba5f/obj_447c67fc7ff746ca8334fc493ee8ba5f_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_447c67fc7ff746ca8334fc493ee8ba5f/obj_447c67fc7ff746ca8334fc493ee8ba5f_small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_6e6308456121420095826d07564603f0/obj_6e6308456121420095826d07564603f0.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_6e6308456121420095826d07564603f0/obj_6e6308456121420095826d07564603f0.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_6e6308456121420095826d07564603f0/obj_6e6308456121420095826d07564603f0.draw" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_6e6308456121420095826d07564603f0/obj_6e6308456121420095826d07564603f0.draw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_8b0e22f584d0465ab90f74dfef28498e/obj_8b0e22f584d0465ab90f74dfef28498e.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_8b0e22f584d0465ab90f74dfef28498e/obj_8b0e22f584d0465ab90f74dfef28498e.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_8b0e22f584d0465ab90f74dfef28498e/obj_8b0e22f584d0465ab90f74dfef28498e.draw" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_8b0e22f584d0465ab90f74dfef28498e/obj_8b0e22f584d0465ab90f74dfef28498e.draw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_8b0e22f584d0465ab90f74dfef28498e/obj_8b0e22f584d0465ab90f74dfef28498e_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_8b0e22f584d0465ab90f74dfef28498e/obj_8b0e22f584d0465ab90f74dfef28498e_small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_bf2e90fe8c3149e88b478b5cb4b2084c/obj_bf2e90fe8c3149e88b478b5cb4b2084c.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_bf2e90fe8c3149e88b478b5cb4b2084c/obj_bf2e90fe8c3149e88b478b5cb4b2084c.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_bf2e90fe8c3149e88b478b5cb4b2084c/obj_bf2e90fe8c3149e88b478b5cb4b2084c.draw" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_bf2e90fe8c3149e88b478b5cb4b2084c/obj_bf2e90fe8c3149e88b478b5cb4b2084c.draw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_bf2e90fe8c3149e88b478b5cb4b2084c/obj_bf2e90fe8c3149e88b478b5cb4b2084c_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_bf2e90fe8c3149e88b478b5cb4b2084c/obj_bf2e90fe8c3149e88b478b5cb4b2084c_small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_bf7cc0643815429daf09e2710ab4e9a4/obj_bf7cc0643815429daf09e2710ab4e9a4.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_bf7cc0643815429daf09e2710ab4e9a4/obj_bf7cc0643815429daf09e2710ab4e9a4.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/process/obj_bf7cc0643815429daf09e2710ab4e9a4/obj_bf7cc0643815429daf09e2710ab4e9a4.draw" beforeDir="false" afterPath="$PROJECT_DIR$/repository/process/obj_bf7cc0643815429daf09e2710ab4e9a4/obj_bf7cc0643815429daf09e2710ab4e9a4.draw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/form/易煤交易补填平台-易煤交易付款补填.htm" beforeDir="false" afterPath="$PROJECT_DIR$/template/form/易煤交易补填平台-易煤交易付款补填.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/form/易煤交易补填平台-易煤交易合同补填流程.htm" beforeDir="false" afterPath="$PROJECT_DIR$/template/form/易煤交易补填平台-易煤交易合同补填流程.htm" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository/process/obj_423f2314711a4fb8afdb1e1b32b72879/obj_423f2314711a4fb8afdb1e1b32b72879.bpmn">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+          <provider editor-type-id="bpmn-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/form/易煤交易补填平台-易煤交易合同补填流程.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.form4.0.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1215">
+              <caret line="81" column="15" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>=======</find>
+      <find>68ff68</find>
+      <find>Grid_7</find>
+      <find>Grid10</find>
+      <find>CATEGORYMONEY</find>
+      <find>ZFLAG</find>
+      <find>trige</find>
+      <find>货物种</find>
+      <find>METALLURGICAL_COAL_Y</find>
+      <find>sunhuiwen</find>
+      <find>baizhihua</find>
+      <find>CARGO</find>
+      <find>open_caigou</find>
+      <find>补充协议</find>
+      <find>SUPPLEMENTAL_AGREEMENT_NUM</find>
+      <find>sealGrid</find>
+      <find>hide</find>
+      <find>h</find>
+      <find>核销借款</find>
+      <find>onlo</find>
+      <find>BTN_SAVE</find>
+      <find>processDefVersionId</find>
+      <find>txw_company</find>
+      <find>匡萃枫</find>
+      <find>kuangcuifeng</find>
+      <find>feixinyuan</find>
+      <find>王磊</find>
+      <find>wanglei</find>
+      <find>obj_ff57c6fa1ca942a2b698a691176d7e76</find>
+      <find>计算单批次列表</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>colspan=&quot;2&quot;</replace>
+      <replace>tangguouliang</replace>
+      <replace>tangguoliang</replace>
+      <replace>wangzhaoqing</replace>
+      <replace>baizhihua1</replace>
+      <replace>费鑫媛</replace>
+      <replace>feixinyuan</replace>
+      <replace>zhangqiuyue</replace>
+      <replace>李春艳</replace>
+      <replace>lichunyan</replace>
+      <replace>结算单批次列表</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/repository/form</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/template/form/煤焦SAP相关业务-小贷业务用款.htm" />
+        <option value="$PROJECT_DIR$/template/form/用款申请-保理合同用款申请.htm" />
+        <option value="$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.form3.0.js" />
+        <option value="$PROJECT_DIR$/template/form/报销-集团费用报销4.0.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-外部培训送读学费报销-打印_m.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-外部培训送读学费报销-打印.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-费用报销TJ.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-集团TJ报销.htm" />
+        <option value="$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expensetj.form.js" />
+        <option value="$PROJECT_DIR$/template/form/报销-集团行政部费用报销.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-费用报销4.0_m.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-专项费用报销3.0_m.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-费用报销-易煤网2.0_m.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-费用报销TJ_m.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-费用报销体系外_m.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-集团TJ报销_m.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-集团费用报销2.0_m.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-集团费用报销4.0_m.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-集团车补报销单3.0_m.htm" />
+        <option value="$PROJECT_DIR$/template/form/新易煤网-费用报销-新易煤网_m.htm" />
+        <option value="$PROJECT_DIR$/template/form/资金冻结申请-资金冻结申请-体系外.htm" />
+        <option value="$PROJECT_DIR$/repository/process/obj_5e5651c665d34279b2b7f21938b773ef/obj_5e5651c665d34279b2b7f21938b773ef.bpmn" />
+        <option value="$PROJECT_DIR$/repository/process/obj_69ddecba849a43dbb36b779c7c15922a/obj_69ddecba849a43dbb36b779c7c15922a.bpmn" />
+        <option value="$USER_HOME$/expense.form4.0.js" />
+        <option value="$PROJECT_DIR$/template/form/煤焦用款-煤焦业务用款SAP.htm" />
+        <option value="$PROJECT_DIR$/repository/process/obj_de3330b5f7c24cee8b1ba4552a45f6d1/obj_de3330b5f7c24cee8b1ba4552a45f6d1.bpmn" />
+        <option value="$PROJECT_DIR$/template/form/陕煤相关流程-陕煤供应链业务用款申请单打印.htm" />
+        <option value="$PROJECT_DIR$/template/form/集团采购业务流程-合同会签单_m.htm" />
+        <option value="$PROJECT_DIR$/repository/process/obj_e03b06ceab9240d296ff6c383acdc434/obj_e03b06ceab9240d296ff6c383acdc434.bpmn" />
+        <option value="$PROJECT_DIR$/repository/process/obj_e03b06ceab9240d296ff6c383acdc434/obj_e03b06ceab9240d296ff6c383acdc434.draw" />
+        <option value="$PROJECT_DIR$/repository/process/obj_7fb1761a300849b2b303a03c42e4778e/obj_7fb1761a300849b2b303a03c42e4778e.bpmn" />
+        <option value="$PROJECT_DIR$/repository/process/obj_7fb1761a300849b2b303a03c42e4778e/obj_7fb1761a300849b2b303a03c42e4778e.draw" />
+        <option value="$PROJECT_DIR$/repository/process/obj_549e0d4037f349f6a0b3fd978050fa41/obj_549e0d4037f349f6a0b3fd978050fa41.draw" />
+        <option value="$PROJECT_DIR$/template/form/陕煤相关流程-陕煤供应链业务用款申请单_m.htm" />
+        <option value="$PROJECT_DIR$/template/form/易煤交易补填平台-易煤交易付款补填.htm" />
+        <option value="$PROJECT_DIR$/template/form/易煤交易补填平台-易煤交易合同补填流程-易煤交易合同补填子表.htm" />
+        <option value="$PROJECT_DIR$/template/form/易煤交易补填平台-补填结算单流程.htm" />
+        <option value="$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.form_asset_group.js" />
+        <option value="$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.form_for_group.js" />
+        <option value="$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.form_asset2.0.js" />
+        <option value="$PROJECT_DIR$/template/form/报销-固定资产报销5.0.htm" />
+        <option value="$PROJECT_DIR$/template/form/报销-集团车补报销单3.0.htm" />
+        <option value="$PROJECT_DIR$/template/form/陕煤相关流程-陕煤合同流程（易煤平台启动）.htm" />
+        <option value="$PROJECT_DIR$/template/form/陕煤相关流程-陕煤供应链业务用款申请单.htm" />
+        <option value="$PROJECT_DIR$/template/form/银行账户开销申请-银行账户开销申请.htm" />
+        <option value="$PROJECT_DIR$/template/form/借款-借款单-置换流程.htm" />
+        <option value="$PROJECT_DIR$/repository/process/obj_423f2314711a4fb8afdb1e1b32b72879/obj_423f2314711a4fb8afdb1e1b32b72879_5.bpmn" />
+        <option value="$PROJECT_DIR$/template/form/易煤交易补填平台-易煤交易合同补填流程.htm" />
+        <option value="$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.form4.0.js" />
+        <option value="$PROJECT_DIR$/repository/bo/_d366204d-3cbf-4d94-9d93-170cd13e3d33/d366204d-3cbf-4d94-9d93-170cd13e3d33.xml" />
+        <option value="$PROJECT_DIR$/repository/process/obj_423f2314711a4fb8afdb1e1b32b72879/obj_423f2314711a4fb8afdb1e1b32b72879.bpmn" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="28" />
+    <option name="y" value="23" />
+    <option name="width" value="1605" />
+    <option name="height" value="943" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js" />
+      <recent name="$PROJECT_DIR$/web/com.awspaas.user.apps.finance/com.awspaas.user.apps.finance/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd2103b0-838d-4ba7-817c-a0f9cec1268c" name="Default Changelist" comment="" />
+      <created>1547601376234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547601376234</updated>
+      <workItem from="1547601377388" duration="917000" />
+      <workItem from="1547604778027" duration="1744000" />
+      <workItem from="1547716020084" duration="5049000" />
+      <workItem from="1548135534318" duration="4461000" />
+      <workItem from="1548208511666" duration="4208000" />
+      <workItem from="1548294701424" duration="2879000" />
+      <workItem from="1548382866210" duration="1166000" />
+      <workItem from="1548391420671" duration="86000" />
+      <workItem from="1548744801683" duration="1789000" />
+      <workItem from="1550031107541" duration="1261000" />
+      <workItem from="1550133018356" duration="1618000" />
+      <workItem from="1550214952479" duration="1053000" />
+      <workItem from="1550475340645" duration="51000" />
+      <workItem from="1550547097692" duration="3679000" />
+      <workItem from="1550626573890" duration="46000" />
+      <workItem from="1550634271202" duration="1866000" />
+      <workItem from="1550655013287" duration="580000" />
+      <workItem from="1551059857562" duration="1768000" />
+      <workItem from="1551244119107" duration="1249000" />
+      <workItem from="1551342387040" duration="3279000" />
+      <workItem from="1551763727428" duration="4204000" />
+      <workItem from="1551848486006" duration="901000" />
+      <workItem from="1551922532026" duration="946000" />
+      <workItem from="1552366456533" duration="2209000" />
+      <workItem from="1552620369650" duration="9835000" />
+      <workItem from="1552959035644" duration="18935000" />
+      <workItem from="1553234475231" duration="115000" />
+      <workItem from="1553236724919" duration="645000" />
+      <workItem from="1553507934291" duration="208000" />
+      <workItem from="1553510654050" duration="4241000" />
+      <workItem from="1553575513623" duration="1035000" />
+      <workItem from="1553593236786" duration="736000" />
+      <workItem from="1553609458018" duration="388000" />
+      <workItem from="1553673834173" duration="3222000" />
+      <workItem from="1554187989205" duration="295000" />
+      <workItem from="1554189957013" duration="2615000" />
+      <workItem from="1554193583336" duration="9353000" />
+      <workItem from="1554266389435" duration="5697000" />
+      <workItem from="1554348323284" duration="3422000" />
+      <workItem from="1555305250705" duration="463000" />
+      <workItem from="1555379527125" duration="393000" />
+      <workItem from="1555496798873" duration="523000" />
+      <workItem from="1555564939245" duration="536000" />
+      <workItem from="1555580256367" duration="2807000" />
+      <workItem from="1555899636106" duration="234000" />
+      <workItem from="1555990217691" duration="850000" />
+      <workItem from="1556074717139" duration="1784000" />
+      <workItem from="1556154998644" duration="1743000" />
+      <workItem from="1556173358301" duration="298000" />
+      <workItem from="1556174764810" duration="567000" />
+      <workItem from="1556441679248" duration="449000" />
+      <workItem from="1556608082518" duration="718000" />
+      <workItem from="1557194544846" duration="466000" />
+      <workItem from="1557295204210" duration="1032000" />
+      <workItem from="1557305141462" duration="1155000" />
+      <workItem from="1557451394879" duration="4201000" />
+      <workItem from="1557710495181" duration="787000" />
+      <workItem from="1557714415423" duration="7201000" />
+      <workItem from="1557904578622" duration="10241000" />
+      <workItem from="1558330053987" duration="229000" />
+      <workItem from="1558335057680" duration="905000" />
+      <workItem from="1558603646010" duration="889000" />
+      <workItem from="1558941651015" duration="82000" />
+      <workItem from="1559529921115" duration="1317000" />
+      <workItem from="1559719701090" duration="2542000" />
+      <workItem from="1560318198511" duration="4174000" />
+      <workItem from="1560388393471" duration="12000" />
+      <workItem from="1560428807872" duration="2354000" />
+      <workItem from="1560827978659" duration="631000" />
+      <workItem from="1560837975272" duration="507000" />
+      <workItem from="1561533737347" duration="637000" />
+      <workItem from="1562146737196" duration="3689000" />
+      <workItem from="1563184297945" duration="489000" />
+      <workItem from="1563332233989" duration="2095000" />
+      <workItem from="1563343850975" duration="60000" />
+      <workItem from="1563348148295" duration="2381000" />
+      <workItem from="1563759134570" duration="252000" />
+      <workItem from="1563864000501" duration="1673000" />
+      <workItem from="1564031812137" duration="159000" />
+      <workItem from="1564369074879" duration="2731000" />
+      <workItem from="1564381910287" duration="894000" />
+      <workItem from="1565165415067" duration="1831000" />
+      <workItem from="1565226368253" duration="229000" />
+      <workItem from="1565342192490" duration="678000" />
+      <workItem from="1565853007582" duration="4216000" />
+      <workItem from="1566802857073" duration="565000" />
+      <workItem from="1567411831774" duration="4837000" />
+      <workItem from="1567575844741" duration="1052000" />
+      <workItem from="1568688711844" duration="513000" />
+      <workItem from="1568963207560" duration="2130000" />
+      <workItem from="1569050477737" duration="3831000" />
+      <workItem from="1571306504494" duration="1038000" />
+      <workItem from="1571730406884" duration="629000" />
+      <workItem from="1571884092752" duration="2713000" />
+      <workItem from="1571983447690" duration="3961000" />
+      <workItem from="1572240724357" duration="423000" />
+      <workItem from="1572244527107" duration="2924000" />
+      <workItem from="1572393115505" duration="2128000" />
+      <workItem from="1572507502610" duration="7343000" />
+      <workItem from="1573613606828" duration="1475000" />
+      <workItem from="1574060762757" duration="1362000" />
+      <workItem from="1574232750154" duration="5821000" />
+      <workItem from="1574328544400" duration="579000" />
+      <workItem from="1574388876771" duration="533000" />
+      <workItem from="1574397434129" duration="560000" />
+      <workItem from="1574647821128" duration="3362000" />
+      <workItem from="1574761836840" duration="230000" />
+      <workItem from="1574845974134" duration="1258000" />
+      <workItem from="1574906370347" duration="6069000" />
+      <workItem from="1575450059125" duration="1534000" />
+      <workItem from="1575615622683" duration="1456000" />
+      <workItem from="1575619219508" duration="160000" />
+      <workItem from="1575883974629" duration="826000" />
+      <workItem from="1575957132032" duration="758000" />
+      <workItem from="1576033903871" duration="1265000" />
+      <workItem from="1576474045925" duration="4297000" />
+      <workItem from="1576652703890" duration="4558000" />
+      <workItem from="1576663173791" duration="490000" />
+      <workItem from="1576722117323" duration="1809000" />
+      <workItem from="1576811939016" duration="1551000" />
+      <workItem from="1576822162930" duration="4506000" />
+      <workItem from="1576832956103" duration="2823000" />
+      <workItem from="1577083755257" duration="1104000" />
+      <workItem from="1577094391524" duration="3709000" />
+      <workItem from="1577167164972" duration="8183000" />
+      <workItem from="1577264472083" duration="1148000" />
+      <workItem from="1577313368947" duration="7051000" />
+      <workItem from="1577434579720" duration="3902000" />
+      <workItem from="1577460065104" duration="1720000" />
+      <workItem from="1577636102888" duration="586000" />
+      <workItem from="1577928287639" duration="2785000" />
+      <workItem from="1578145350936" duration="556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="292552000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="28" y="23" width="1605" height="943" extended-state="1" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34974748" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.6932215" visible="true" weight="0.35017627" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3067785" side_tool="true" weight="0.488228" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="BPMNPalette" order="3" weight="0.33333334" />
+      <window_info anchor="right" id="BPMN Palette" order="4" weight="0.3512476" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/template/form/报销-费用报销体系外_m.htm" />
+    <entry file="file://$PROJECT_DIR$/template/form/报销-车补报销单_m.htm" />
+    <entry file="file://$PROJECT_DIR$/template/form/报销-集团TJ报销_m.htm" />
+    <entry file="file://$PROJECT_DIR$/template/form/报销-集团费用报销2.0_m.htm" />
+    <entry file="file://$PROJECT_DIR$/template/form/报销-集团费用报销4.0_m.htm" />
+    <entry file="file://$PROJECT_DIR$/template/form/报销-集团车补报销单3.0_m.htm" />
+    <entry file="file://$PROJECT_DIR$/template/form/新易煤网-费用报销-新易煤网_m.htm" />
+    <entry file="file://$PROJECT_DIR$/template/form/新易煤网-费用报销-新易煤网-费用报销-易煤网2.0.htm" />
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_69ddecba849a43dbb36b779c7c15922a/obj_69ddecba849a43dbb36b779c7c15922a.bpmn" />
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_0d817a4f0f1c47b2b5205378d88134b7/obj_0d817a4f0f1c47b2b5205378d88134b7.bpmn" />
+    <entry file="file://$PROJECT_DIR$/template/form/资金冻结申请-资金冻结申请-体系外.htm" />
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_5e5651c665d34279b2b7f21938b773ef/obj_5e5651c665d34279b2b7f21938b773ef.bpmn" />
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_2546f674ff514bbdab577611589ebb50/obj_2546f674ff514bbdab577611589ebb50.bpmn" />
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_de3330b5f7c24cee8b1ba4552a45f6d1/obj_de3330b5f7c24cee8b1ba4552a45f6d1.bpmn">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/陕煤相关流程-陕煤供应链业务用款申请单打印.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/集团采购业务流程-合同会签单_m.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="312" column="2" selection-start-line="312" selection-start-column="2" selection-end-line="312" selection-end-column="2" />
+          <folding>
+            <element signature="n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_4e9e880b73cf41a2a4658330a6647707/obj_4e9e880b73cf41a2a4658330a6647707.bpmn">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="70" selection-start-line="38" selection-start-column="70" selection-end-line="38" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/集团采购业务流程-合同明细表_m.htm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_e03b06ceab9240d296ff6c383acdc434/obj_e03b06ceab9240d296ff6c383acdc434.draw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_e03b06ceab9240d296ff6c383acdc434/obj_e03b06ceab9240d296ff6c383acdc434.bpmn">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_7fb1761a300849b2b303a03c42e4778e/obj_7fb1761a300849b2b303a03c42e4778e.bpmn">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_7fb1761a300849b2b303a03c42e4778e/obj_7fb1761a300849b2b303a03c42e4778e.draw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_549e0d4037f349f6a0b3fd978050fa41/obj_549e0d4037f349f6a0b3fd978050fa41.draw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/易煤交易补填平台-易煤交易付款补填.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="177" column="7" selection-start-line="177" selection-start-column="7" selection-end-line="177" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/煤焦SAP相关业务-合资公司合同批量单个合同.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/易煤交易补填平台-易煤交易合同补填流程-易煤交易合同补填子表.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="272" column="12" selection-start-line="272" selection-start-column="12" selection-end-line="272" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/煤焦用款-煤焦业务用款SAP.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="351" selection-start-line="351" selection-end-line="351" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/expense.form4.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="596" column="27" lean-forward="true" selection-start-line="596" selection-start-column="27" selection-end-line="596" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.form3.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1883" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.form_asset.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.special.project.form.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.form_asset_group.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.form_asset2.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="88" column="38" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/陕煤相关流程-陕煤合同流程（易煤平台启动）.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5595">
+          <caret line="373" column="3" selection-start-line="373" selection-start-column="3" selection-end-line="373" selection-end-column="3" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#col#1;n#colgroup#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#col#3;n#colgroup#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#5;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#12;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#17;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#22;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#25;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#2;n#tr#25;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/陕煤相关流程-陕煤供应链业务用款申请单_m.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3345">
+          <caret line="223" selection-start-line="223" selection-end-line="223" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.form_for_group.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/报销-固定资产报销5.0.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4545">
+          <caret line="303" column="27" selection-start-line="303" selection-start-column="27" selection-end-line="303" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/SAP_非业务付款V1-小贷合同用款申请.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/报销-集团车补报销单3.0.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4980">
+          <caret line="332" column="26" selection-start-line="332" selection-start-column="26" selection-end-line="332" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expensetj.form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="37" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/陕煤相关流程-陕煤供应链业务用款申请单.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="776" column="72" selection-start-line="776" selection-start-column="30" selection-end-line="776" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_423f2314711a4fb8afdb1e1b32b72879/obj_423f2314711a4fb8afdb1e1b32b72879.check">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_423f2314711a4fb8afdb1e1b32b72879/obj_423f2314711a4fb8afdb1e1b32b72879.bpmn.err" />
+    <entry file="file://$PROJECT_DIR$/template/form/银行账户开销申请-银行账户开销申请.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="156" column="25" selection-start-line="156" selection-start-column="25" selection-end-line="156" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/易煤交易补填平台-补填结算单流程.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="216" column="35" selection-start-line="216" selection-start-column="35" selection-end-line="216" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#col#1;n#colgroup#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#col#1;n#colgroup#0;n#table#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#col#3;n#colgroup#0;n#table#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#4;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#4;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#col#1;n#colgroup#0;n#table#0;n#td#0;n#tr#4;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#col#3;n#colgroup#0;n#table#0;n#td#0;n#tr#4;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#5;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#col#1;n#colgroup#0;n#table#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#col#3;n#colgroup#0;n#table#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#8;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/借款-借款单-置换流程.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#col#1;n#colgroup#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#col#3;n#colgroup#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3613#3619#0" expanded="true" />
+            <element signature="e#3705#3711#1" expanded="true" />
+            <element signature="e#3749#3755#1" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#5;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4792#4798#1" expanded="true" />
+            <element signature="e#4836#4842#1" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#2;n#tr#9;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6304#6310#1" expanded="true" />
+            <element signature="e#6348#6354#1" expanded="true" />
+            <element signature="e#6532#6538#1" expanded="true" />
+            <element signature="e#6576#6582#1" expanded="true" />
+            <element signature="e#7376#7382#1" expanded="true" />
+            <element signature="e#7469#7475#1" expanded="true" />
+            <element signature="e#7702#7708#1" expanded="true" />
+            <element signature="e#7746#7752#1" expanded="true" />
+            <element signature="e#8040#8046#1" expanded="true" />
+            <element signature="e#8084#8090#1" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#18;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#18;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#td#0;n#tr#18;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#21;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#21;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#td#0;n#tr#21;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#9488#9494#1" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#24;n#tbody#0;n#table#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#11005#11011#1" expanded="true" />
+            <element signature="e#11049#11055#1" expanded="true" />
+            <element signature="e#11311#11317#1" expanded="true" />
+            <element signature="e#11355#11361#1" expanded="true" />
+            <element signature="e#11626#11632#1" expanded="true" />
+            <element signature="e#11670#11676#1" expanded="true" />
+            <element signature="e#12304#12310#0" expanded="true" />
+            <element signature="e#12310#12316#0" expanded="true" />
+            <element signature="e#12806#12812#1" expanded="true" />
+            <element signature="e#12850#12856#1" expanded="true" />
+            <element signature="e#13316#13322#1" expanded="true" />
+            <element signature="e#13360#13366#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_423f2314711a4fb8afdb1e1b32b72879/obj_423f2314711a4fb8afdb1e1b32b72879_5.bpmn">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16484">
+          <caret line="1099" selection-start-line="1099" selection-end-line="1099" />
+        </state>
+      </provider>
+      <provider editor-type-id="bpmn-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/bo/_d366204d-3cbf-4d94-9d93-170cd13e3d33/d366204d-3cbf-4d94-9d93-170cd13e3d33.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/process/obj_423f2314711a4fb8afdb1e1b32b72879/obj_423f2314711a4fb8afdb1e1b32b72879.bpmn">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+      <provider editor-type-id="bpmn-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/form/易煤交易补填平台-易煤交易合同补填流程.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/com.awspaas.user.apps.finance/js/expense.form4.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="15" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

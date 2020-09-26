@@ -1,0 +1,3 @@
+Ui83yrtxc	coNhlgw111	
+set authentication password cipher coNhlgw111
+consle密码修改
